@@ -23,7 +23,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
-  > Website link -> [justak.id](https://justak.id/)
+  > Website link -> [thatwas.fun](https://thatwas.fun/)
 
 ---
 
@@ -55,9 +55,11 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [Immanuel's Portfolio](https://eintswavex.github.io/)
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
-  > As an academician.
+  > As an academician.  
+  > Website link -> https://portogibran.vercel.app/
 - [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
   > As an academician.  
   > Website link -> (https://my-portofolio-geraldirhs-projects.vercel.app/)
@@ -80,7 +82,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
-  > As an academician.
+   > As an academician.  
+  > Website link -> [wijdanmkh-insk.github.io](https://wijdanmkh-insk.github.io/)
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.  
   > Website link -> [portouki.vercel.app](https://portouki.vercel.app/)
